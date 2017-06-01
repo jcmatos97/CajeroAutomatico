@@ -1,0 +1,9 @@
+C:\Users\JC_USER\Desktop\CajeroAutomatico\cajero\cajero\bin\Debug\cajero.exe.config
+C:\Users\JC_USER\Desktop\CajeroAutomatico\cajero\cajero\bin\Debug\cajero.exe
+C:\Users\JC_USER\Desktop\CajeroAutomatico\cajero\cajero\bin\Debug\cajero.pdb
+C:\Users\JC_USER\Desktop\CajeroAutomatico\cajero\cajero\obj\Debug\cajero.csprojResolveAssemblyReference.cache
+C:\Users\JC_USER\Desktop\CajeroAutomatico\cajero\cajero\obj\Debug\cajero.cajeroAutomatico.resources
+C:\Users\JC_USER\Desktop\CajeroAutomatico\cajero\cajero\obj\Debug\cajero.Properties.Resources.resources
+C:\Users\JC_USER\Desktop\CajeroAutomatico\cajero\cajero\obj\Debug\cajero.csproj.GenerateResource.Cache
+C:\Users\JC_USER\Desktop\CajeroAutomatico\cajero\cajero\obj\Debug\cajero.exe
+C:\Users\JC_USER\Desktop\CajeroAutomatico\cajero\cajero\obj\Debug\cajero.pdb
